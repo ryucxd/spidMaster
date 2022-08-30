@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spidMaster", "spidMaster\spidMaster.csproj", "{020A99A9-E9F1-49CB-A8D7-C82C950A452B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{020A99A9-E9F1-49CB-A8D7-C82C950A452B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020A99A9-E9F1-49CB-A8D7-C82C950A452B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020A99A9-E9F1-49CB-A8D7-C82C950A452B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020A99A9-E9F1-49CB-A8D7-C82C950A452B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52F34E0E-C613-434C-9F8C-9DA780271324}
+	EndGlobalSection
+EndGlobal
